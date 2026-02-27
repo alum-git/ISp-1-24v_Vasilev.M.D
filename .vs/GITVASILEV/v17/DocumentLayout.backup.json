@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\stud7korp2\\Desktop\\\u0445\u0437\\\u0418\u0421\u043F-1-24\u0432\\\u0412\u043E\u0437\u0432\u0440\u0430\u0442 \u0434\u043E\u043B\u0433\u043E\u0432\\GITVASILEV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6E3375-0C61-4920-9C6D-064814B20904}|GITVASILEV\\GITVASILEV.csproj|c:\\users\\stud7korp2\\desktop\\\u0445\u0437\\\u0438\u0441\u043F-1-24\u0432\\\u0432\u043E\u0437\u0432\u0440\u0430\u0442 \u0434\u043E\u043B\u0433\u043E\u0432\\gitvasilev\\gitvasilev\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A6E3375-0C61-4920-9C6D-064814B20904}|GITVASILEV\\GITVASILEV.csproj|solutionrelative:gitvasilev\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 294,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{25f7e850-ffa1-11d0-b63f-00a0c922e851}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\stud7korp2\\Desktop\\\u0445\u0437\\\u0418\u0421\u043F-1-24\u0432\\\u0412\u043E\u0437\u0432\u0440\u0430\u0442 \u0434\u043E\u043B\u0433\u043E\u0432\\GITVASILEV\\GITVASILEV\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "GITVASILEV\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\stud7korp2\\Desktop\\\u0445\u0437\\\u0418\u0421\u043F-1-24\u0432\\\u0412\u043E\u0437\u0432\u0440\u0430\u0442 \u0434\u043E\u043B\u0433\u043E\u0432\\GITVASILEV\\GITVASILEV\\MainWindow.xaml.cs",
+              "RelativeToolTip": "GITVASILEV\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T08:10:06.982Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
